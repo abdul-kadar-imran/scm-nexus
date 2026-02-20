@@ -1,0 +1,7 @@
+{
+  "name": "Nexus SCM - Enterprise Supply Chain Management",
+  "description": "A high-performance, enterprise-grade supply chain management dashboard featuring real-time analytics, inventory tracking, and workflow automation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
